@@ -1,10 +1,14 @@
 # Running Client installation
-npx create-react-app myapp
-npm i redux react-redux redux-thunk
-npm start
+1. npx create-react-app myapp
+2. npm i redux react-redux redux-thunk
+3. npm start
 
 # Running Server installation
-node server.js
+1. npm install cors express, 'body-parser'
+2. node server.js
+
+## Redux Schema 
+![Redux Schema](./redux_state.jpg)
 
 
 Action -> reducer -> Dispatch -> store -> state
