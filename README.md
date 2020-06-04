@@ -3,9 +3,15 @@
 2. npm i redux react-redux redux-thunk
 3. npm start
 
+> Example using component class and function hook-state-effect to perform Redux application state management.
+> To workaround cors origin policy error when connecting from remote url, 'Cors helper' extension needs to be activated in local browser to disable browser from checking for 'cross-site request forgery'.
+
+***
+
 # Running Server installation
 1. npm install cors express, 'body-parser'
 2. node server.js
+
 
 ----
 
